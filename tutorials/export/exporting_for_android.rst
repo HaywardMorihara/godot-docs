@@ -79,6 +79,10 @@ In that screen, 2 paths need to be set:
 
 Once that is configured, everything is ready to export to Android!
 
+When you go to export your project for Android, ensure the debug keystore username and password are provided
+
+TODO Screenshot
+
 Providing launcher icons
 ------------------------
 
